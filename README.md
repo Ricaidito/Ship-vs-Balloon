@@ -1,4 +1,9 @@
-# Ship-vs-Balloon
- Ship Vs Balloon game created with Unity
- 
- Platform: Android
+# Ship-VS-Balloon
+
+Ship VS Balloon game created with Unity and C#.
+
+**Platforms:**
+
+-Android (APK)
+
+-Windows (.exe)
